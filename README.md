@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nayanbadolla, self-learning web-developer.
-- 👀 I’m interested in science, aviation, sports.
+- 👀 I’m passionate about science, aviation, sports, adventure and reading.
 - 🌱 I’m currently learning JavaScript and improving my fluency in HTML5 & CSS.
 - 📫 You can reach me at nayanbadolla@yahoo.in
 
