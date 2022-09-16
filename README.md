@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayanbadolla, self-learning web-developer.
 - 👀 I’m passionate about science, aviation, sports, adventure and reading.
-- 🌱 I’m currently working on NeoG BootCamp's levelZero.
+- 🌱 I’m currently working on neog.camp levelZero.
 - 📜 And I'm fluent in HTML5, CSS, JavaScript.
 - 📫 You can reach me at badollanayan@gmail.com. Open for freelancing and collaboration.
 
